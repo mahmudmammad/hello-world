@@ -2,4 +2,4 @@
 Tutorial
 
 
-Mahmud Mammadov try to learn git
+Mahmud Mammadov try to learn github
